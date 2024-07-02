@@ -40,12 +40,14 @@ regular_express 填写为 (a|b)*a(a|b)
 
 运行后会自动绘制并打开3张图片，依次为NFA、DFA、最小DFA
 
+NFA.gv.png：
+
 ![NFA.gv](https://cdn.jsdelivr.net/gh/Gaesar/Gaesar.github.io@main/pic/202407021323151.png)
 
-​											            NFA.gv.png
+DFA.gv.png:
 
 ![DFA.gv](https://cdn.jsdelivr.net/gh/Gaesar/Gaesar.github.io@main/pic/202407021323519.png)
 
-​														DFA.gv.png![DFAs.gv](https://cdn.jsdelivr.net/gh/Gaesar/Gaesar.github.io@main/pic/202407021323769.png)
+DFAs.gv.png:
 
-​														DFAs.gv.png
+![DFAs.gv](https://cdn.jsdelivr.net/gh/Gaesar/Gaesar.github.io@main/pic/202407021323769.png)
